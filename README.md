@@ -17,15 +17,15 @@ This project is an Android application developed in Kotlin that implements a Tic
 
 This project leverages multiple software design patterns for clean, flexible, and maintainable code:
 
-🏭 Factory Pattern – For creating ticket and event objects
+🏭 Factory Pattern – Creates different types of tickets
 
 🏗️ Builder Pattern – For constructing complex reservation objects step by step
 
-⚡ Strategy Pattern – For implementing different booking and payment strategies
+⚡ Strategy Pattern – For implementing different booking strategies
 
 👀 Observer Pattern – For notifying users about ticket availability and updates
 
-🎨 Decorator Pattern – For adding dynamic features like VIP services or discounts
+🎨 Decorator Pattern – For adding dynamic features like Payment services or discounts
 
 🏛️ Facade Pattern – For simplifying interactions between subsystems with a unified interface
 
